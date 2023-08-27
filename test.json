@@ -1,0 +1,1581 @@
+{
+    "items": [
+        {
+            "children": [
+                {
+                    "href": "./",
+                    "toc_title": "Overview"
+                },
+                {
+                    "children": [
+                        {
+                            "href": "resiliency/",
+                            "toc_title": "About"
+                        },
+                        {
+                            "href": "resiliency/overview",
+                            "toc_title": "Overview"
+                        },
+                        {
+                            "href": "resiliency/principles",
+                            "toc_title": "Principles"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "href": "resiliency/design-checklist",
+                                    "toc_title": "Checklist"
+                                },
+                                {
+                                    "href": "resiliency/design-requirements",
+                                    "toc_title": "Requirements"
+                                },
+                                {
+                                    "href": "resiliency/app-design",
+                                    "toc_title": "Application design"
+                                },
+                                {
+                                    "href": "resiliency/design-resiliency",
+                                    "toc_title": "Resiliency & dependencies"
+                                },
+                                {
+                                    "href": "resiliency/data-management",
+                                    "toc_title": "Data management"
+                                },
+                                {
+                                    "href": "/azure/architecture/reliability/architect?toc=/azure/architecture/framework/toc.json&bc=/azure/architecture/framework/breadcrumb/toc.json",
+                                    "toc_title": "Application resiliency"
+                                },
+                                {
+                                    "href": "resiliency/business-metrics",
+                                    "toc_title": "Business metrics"
+                                },
+                                {
+                                    "href": "resiliency/design-best-practices",
+                                    "toc_title": "Best practices"
+                                }
+                            ],
+                            "toc_title": "Design"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "href": "resiliency/test-checklist",
+                                    "toc_title": "Checklist"
+                                },
+                                {
+                                    "href": "resiliency/testing",
+                                    "toc_title": "Resiliency testing"
+                                },
+                                {
+                                    "children": [
+                                        {
+                                            "href": "resiliency/backup-and-recovery",
+                                            "toc_title": "Backup and recovery"
+                                        },
+                                        {
+                                            "href": "resiliency/auto-retry",
+                                            "toc_title": "Automatic retry of failed backup jobs"
+                                        }
+                                    ],
+                                    "toc_title": "Backup & recovery"
+                                },
+                                {
+                                    "href": "resiliency/app-design-error-handling",
+                                    "toc_title": "Error handling"
+                                },
+                                {
+                                    "href": "resiliency/chaos-engineering",
+                                    "toc_title": "Chaos engineering"
+                                },
+                                {
+                                    "href": "resiliency/test-best-practices",
+                                    "toc_title": "Best practices"
+                                }
+                            ],
+                            "toc_title": "Testing"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "href": "resiliency/monitor-checklist",
+                                    "toc_title": "Checklist"
+                                },
+                                {
+                                    "href": "resiliency/monitoring",
+                                    "toc_title": "Application health"
+                                },
+                                {
+                                    "href": "resiliency/monitor-model",
+                                    "toc_title": "Health modeling"
+                                },
+                                {
+                                    "href": "resiliency/monitor-best-practices",
+                                    "toc_title": "Best practices"
+                                }
+                            ],
+                            "toc_title": "Monitoring"
+                        },
+                        {
+                            "href": "resiliency/reliability-patterns",
+                            "toc_title": "Reliability patterns"
+                        }
+                    ],
+                    "toc_title": "Reliability"
+                },
+                {
+                    "children": [
+                        {
+                            "href": "security/",
+                            "toc_title": "About"
+                        },
+                        {
+                            "href": "security/overview",
+                            "toc_title": "Overview"
+                        },
+                        {
+                            "href": "security/security-principles",
+                            "toc_title": "Principles"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "children": [
+                                        {
+                                            "href": "security/design-governance",
+                                            "toc_title": "Checklist"
+                                        },
+                                        {
+                                            "href": "security/design-regulatory-compliance",
+                                            "toc_title": "Compliance requirements"
+                                        },
+                                        {
+                                            "href": "security/design-governance-landing-zone",
+                                            "toc_title": "Landing zone"
+                                        },
+                                        {
+                                            "href": "security/design-segmentation",
+                                            "toc_title": "Segmentation strategy"
+                                        },
+                                        {
+                                            "href": "security/design-management-groups",
+                                            "toc_title": "Management groups"
+                                        },
+                                        {
+                                            "href": "security/design-admins",
+                                            "toc_title": "Administration"
+                                        }
+                                    ],
+                                    "toc_title": "Governance"
+                                },
+                                {
+                                    "children": [
+                                        {
+                                            "href": "security/design-identity",
+                                            "toc_title": "Checklist"
+                                        },
+                                        {
+                                            "href": "security/design-identity-role-definitions",
+                                            "toc_title": "Roles and responsibilities"
+                                        },
+                                        {
+                                            "href": "security/design-identity-control-plane",
+                                            "toc_title": "Control plane"
+                                        },
+                                        {
+                                            "href": "security/design-identity-authentication",
+                                            "toc_title": "Authentication"
+                                        },
+                                        {
+                                            "href": "security/design-identity-authorization",
+                                            "toc_title": "Authorization"
+                                        },
+                                        {
+                                            "href": "/azure/security/fundamentals/identity-management-best-practices",
+                                            "toc_title": "Best practices"
+                                        }
+                                    ],
+                                    "toc_title": "Identity and access management"
+                                },
+                                {
+                                    "children": [
+                                        {
+                                            "href": "security/design-network",
+                                            "toc_title": "Checklist"
+                                        },
+                                        {
+                                            "href": "security/design-network-segmentation",
+                                            "toc_title": "Network segmentation"
+                                        },
+                                        {
+                                            "href": "security/design-network-connectivity",
+                                            "toc_title": "Connectivity"
+                                        },
+                                        {
+                                            "href": "security/design-network-endpoints",
+                                            "toc_title": "Application endpoints"
+                                        },
+                                        {
+                                            "href": "security/design-network-flow",
+                                            "toc_title": "Data flow"
+                                        },
+                                        {
+                                            "href": "/azure/security/fundamentals/network-best-practices",
+                                            "toc_title": "Best practices"
+                                        }
+                                    ],
+                                    "toc_title": "Networking"
+                                },
+                                {
+                                    "children": [
+                                        {
+                                            "href": "security/design-storage",
+                                            "toc_title": "Checklist"
+                                        },
+                                        {
+                                            "href": "security/design-storage-encryption",
+                                            "toc_title": "Encryption"
+                                        },
+                                        {
+                                            "href": "security/design-storage-keys",
+                                            "toc_title": "Key and secret management"
+                                        },
+                                        {
+                                            "href": "/azure/security/fundamentals/encryption-overview",
+                                            "toc_title": "Best practices"
+                                        }
+                                    ],
+                                    "toc_title": "Data protection"
+                                },
+                                {
+                                    "children": [
+                                        {
+                                            "href": "security/design-apps-services",
+                                            "toc_title": "Application security considerations"
+                                        },
+                                        {
+                                            "href": "security/design-apps-considerations",
+                                            "toc_title": "Application classification"
+                                        },
+                                        {
+                                            "href": "security/design-threat-model",
+                                            "toc_title": "Threat analysis"
+                                        },
+                                        {
+                                            "href": "/azure/security/fundamentals/paas-deployments",
+                                            "toc_title": "Secure PaaS deployments"
+                                        },
+                                        {
+                                            "href": "security/design-app-dependencies",
+                                            "toc_title": "Configuration and dependencies"
+                                        }
+                                    ],
+                                    "toc_title": "Applications and services"
+                                }
+                            ],
+                            "toc_title": "Design"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "href": "security/deploy",
+                                    "toc_title": "Checklist"
+                                },
+                                {
+                                    "href": "security/deploy-governance",
+                                    "toc_title": "Governance considerations"
+                                },
+                                {
+                                    "href": "security/deploy-infrastructure",
+                                    "toc_title": "Infrastructure provisioning"
+                                },
+                                {
+                                    "href": "security/deploy-code",
+                                    "toc_title": "Code deployments"
+                                }
+                            ],
+                            "toc_title": "Build-deploy"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "href": "security/monitor",
+                                    "toc_title": "Checklist"
+                                },
+                                {
+                                    "href": "security/monitor-tools",
+                                    "toc_title": "Tools"
+                                },
+                                {
+                                    "href": "security/monitor-resources",
+                                    "toc_title": "Azure resources"
+                                },
+                                {
+                                    "href": "security/monitor-logs-alerts",
+                                    "toc_title": "Logs and alerts"
+                                },
+                                {
+                                    "href": "security/monitor-remediate",
+                                    "toc_title": "Review and remediate"
+                                },
+                                {
+                                    "href": "security/monitor-audit",
+                                    "toc_title": "Compliance review"
+                                },
+                                {
+                                    "href": "security/monitor-test",
+                                    "toc_title": "Validate and test"
+                                },
+                                {
+                                    "href": "security/monitor-security-operations",
+                                    "toc_title": "Security operations"
+                                }
+                            ],
+                            "toc_title": "Monitor-remediate"
+                        },
+                        {
+                            "href": "security/security-tradeoffs",
+                            "toc_title": "Tradeoffs"
+                        },
+                        {
+                            "href": "security/security-patterns",
+                            "toc_title": "Security patterns"
+                        }
+                    ],
+                    "toc_title": "Security"
+                },
+                {
+                    "children": [
+                        {
+                            "href": "cost/",
+                            "toc_title": "About"
+                        },
+                        {
+                            "href": "cost/overview",
+                            "toc_title": "Overview"
+                        },
+                        {
+                            "href": "cost/principles",
+                            "toc_title": "Principles"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "href": "cost/design-checklist",
+                                    "toc_title": "Checklist"
+                                },
+                                {
+                                    "href": "cost/design-model",
+                                    "toc_title": "Cost model"
+                                },
+                                {
+                                    "href": "cost/design-capture-requirements",
+                                    "toc_title": "Capture requirements"
+                                },
+                                {
+                                    "href": "cost/design-regions",
+                                    "toc_title": "Azure regions"
+                                },
+                                {
+                                    "href": "cost/design-resources",
+                                    "toc_title": "Azure resources"
+                                },
+                                {
+                                    "href": "cost/design-governance",
+                                    "toc_title": "Governance"
+                                },
+                                {
+                                    "href": "cost/design-initial-estimate",
+                                    "toc_title": "Initial estimate"
+                                },
+                                {
+                                    "href": "cost/design-paas",
+                                    "toc_title": "Managed services"
+                                },
+                                {
+                                    "href": "cost/design-price",
+                                    "toc_title": "Performance and price options"
+                                }
+                            ],
+                            "toc_title": "Design"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "href": "cost/provision-checklist",
+                                    "toc_title": "Checklist"
+                                },
+                                {
+                                    "href": "cost/provision-ai-ml",
+                                    "toc_title": "AI + Machine Learning"
+                                },
+                                {
+                                    "href": "cost/provision-analytics",
+                                    "toc_title": "Big data"
+                                },
+                                {
+                                    "href": "cost/provision-compute",
+                                    "toc_title": "Compute"
+                                },
+                                {
+                                    "href": "cost/provision-datastores",
+                                    "toc_title": "Data stores"
+                                },
+                                {
+                                    "href": "cost/provision-messaging",
+                                    "toc_title": "Messaging"
+                                },
+                                {
+                                    "children": [
+                                        {
+                                            "href": "cost/provision-networking-services",
+                                            "toc_title": "Cost for networking services"
+                                        }
+                                    ],
+                                    "href": "cost/provision-networking",
+                                    "toc_title": "Networking"
+                                },
+                                {
+                                    "href": "cost/provision-webapps",
+                                    "toc_title": "Web apps"
+                                }
+                            ],
+                            "toc_title": "Provision"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "href": "cost/monitor-checklist",
+                                    "toc_title": "Checklist"
+                                },
+                                {
+                                    "href": "cost/monitor-alert",
+                                    "toc_title": "Budgets and alerts"
+                                },
+                                {
+                                    "href": "cost/monitor-reports",
+                                    "toc_title": "Reports"
+                                },
+                                {
+                                    "href": "cost/monitor-reviews",
+                                    "toc_title": "Reviews"
+                                }
+                            ],
+                            "toc_title": "Monitor"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "href": "cost/optimize-checklist",
+                                    "toc_title": "Checklist"
+                                },
+                                {
+                                    "href": "cost/optimize-autoscale",
+                                    "toc_title": "Autoscale"
+                                },
+                                {
+                                    "href": "cost/optimize-vm",
+                                    "toc_title": "VM instances"
+                                },
+                                {
+                                    "href": "cost/optimize-cache",
+                                    "toc_title": "Caching"
+                                }
+                            ],
+                            "toc_title": "Optimize"
+                        },
+                        {
+                            "href": "cost/tradeoffs",
+                            "toc_title": "Tradeoffs"
+                        }
+                    ],
+                    "toc_title": "Cost Optimization"
+                },
+                {
+                    "children": [
+                        {
+                            "href": "devops/",
+                            "toc_title": "About"
+                        },
+                        {
+                            "href": "devops/overview",
+                            "toc_title": "Overview"
+                        },
+                        {
+                            "href": "devops/principles",
+                            "toc_title": "Principles"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "href": "devops/automation-overview",
+                                    "toc_title": "Automation overview"
+                                },
+                                {
+                                    "href": "devops/automation-infrastructure",
+                                    "toc_title": "Repeatable infrastructure"
+                                },
+                                {
+                                    "href": "devops/automation-configuration",
+                                    "toc_title": "Configure infrastructure"
+                                },
+                                {
+                                    "href": "devops/automation-tasks",
+                                    "toc_title": "Automate operational tasks"
+                                }
+                            ],
+                            "toc_title": "Automation"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "href": "devops/release-engineering-app-dev",
+                                    "toc_title": "Application development"
+                                },
+                                {
+                                    "href": "devops/release-engineering-ci",
+                                    "toc_title": "Continuous integration"
+                                },
+                                {
+                                    "href": "devops/release-engineering-testing",
+                                    "toc_title": "Testing"
+                                },
+                                {
+                                    "href": "devops/release-engineering-performance",
+                                    "toc_title": "Performance"
+                                },
+                                {
+                                    "href": "devops/release-engineering-cd",
+                                    "toc_title": "Deployment"
+                                },
+                                {
+                                    "href": "devops/release-engineering-rollback",
+                                    "toc_title": "Rollback"
+                                }
+                            ],
+                            "toc_title": "Release engineering"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "href": "devops/checklist",
+                                    "toc_title": "Checklist"
+                                },
+                                {
+                                    "children": [
+                                        {
+                                            "href": "devops/monitor-pipeline",
+                                            "toc_title": "Monitoring stages"
+                                        },
+                                        {
+                                            "href": "devops/monitor-data-sources",
+                                            "toc_title": "Data sources"
+                                        },
+                                        {
+                                            "href": "devops/monitor-instrument",
+                                            "toc_title": "Instrumentation"
+                                        },
+                                        {
+                                            "href": "devops/monitor-collection-data-storage",
+                                            "toc_title": "Collection and storage"
+                                        },
+                                        {
+                                            "href": "devops/monitor-analysis",
+                                            "toc_title": "Analysis"
+                                        },
+                                        {
+                                            "href": "devops/monitor-visualize-data",
+                                            "toc_title": "Visualization"
+                                        },
+                                        {
+                                            "href": "devops/monitor-alerts",
+                                            "toc_title": "Alerting"
+                                        }
+                                    ],
+                                    "toc_title": "Monitor cloud applications"
+                                },
+                                {
+                                    "children": [
+                                        {
+                                            "href": "devops/health-monitoring",
+                                            "toc_title": "Health monitoring"
+                                        },
+                                        {
+                                            "href": "devops/usage",
+                                            "toc_title": "Usage monitoring"
+                                        },
+                                        {
+                                            "href": "devops/issue-tracking",
+                                            "toc_title": "Issue tracking"
+                                        },
+                                        {
+                                            "href": "devops/tracing",
+                                            "toc_title": "Tracing and debugging"
+                                        },
+                                        {
+                                            "href": "devops/auditing",
+                                            "toc_title": "Auditing"
+                                        }
+                                    ],
+                                    "toc_title": "Common use cases"
+                                }
+                            ],
+                            "toc_title": "Monitor"
+                        },
+                        {
+                            "href": "devops/devops-patterns",
+                            "toc_title": "Operational Excellence patterns"
+                        }
+                    ],
+                    "toc_title": "Operational Excellence"
+                },
+                {
+                    "children": [
+                        {
+                            "href": "scalability/",
+                            "toc_title": "About"
+                        },
+                        {
+                            "href": "scalability/overview",
+                            "toc_title": "Overview"
+                        },
+                        {
+                            "href": "scalability/principles",
+                            "toc_title": "Principles"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "href": "scalability/design-distributed",
+                                    "toc_title": "Distributed architecture challenges"
+                                },
+                                {
+                                    "href": "scalability/design-apps",
+                                    "toc_title": "Application performance"
+                                },
+                                {
+                                    "href": "scalability/design-efficiency",
+                                    "toc_title": "Application efficiency"
+                                },
+                                {
+                                    "href": "scalability/design-scale",
+                                    "toc_title": "Application scalability"
+                                },
+                                {
+                                    "href": "scalability/design-capacity",
+                                    "toc_title": "Application capacity"
+                                },
+                                {
+                                    "href": "scalability/capacity",
+                                    "toc_title": "Capacity best practices"
+                                }
+                            ],
+                            "toc_title": "Design"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "href": "scalability/test-checklist",
+                                    "toc_title": "Checklist"
+                                },
+                                {
+                                    "href": "scalability/performance-test",
+                                    "toc_title": "Performance testing"
+                                },
+                                {
+                                    "href": "scalability/load-testing",
+                                    "toc_title": "Load testing"
+                                },
+                                {
+                                    "href": "scalability/test-tools",
+                                    "toc_title": "Testing strategies"
+                                }
+                            ],
+                            "toc_title": "Test"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "href": "scalability/checklist",
+                                    "toc_title": "Checklist"
+                                },
+                                {
+                                    "href": "scalability/monitor-application",
+                                    "toc_title": "Application profiling"
+                                },
+                                {
+                                    "href": "scalability/monitor-infrastructure",
+                                    "toc_title": "Analyze infrastructure"
+                                },
+                                {
+                                    "href": "scalability/monitor-analyze",
+                                    "toc_title": "Performance data"
+                                },
+                                {
+                                    "href": "scalability/monitor-scalability-reliability",
+                                    "toc_title": "Scalability and reliability"
+                                }
+                            ],
+                            "toc_title": "Monitoring"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "href": "scalability/optimize-sustain",
+                                    "toc_title": "Sustain efficiency"
+                                },
+                                {
+                                    "href": "scalability/optimize-partition",
+                                    "toc_title": "Partition data"
+                                },
+                                {
+                                    "href": "scalability/optimize-cache",
+                                    "toc_title": "Cache data"
+                                }
+                            ],
+                            "toc_title": "Optimize"
+                        },
+                        {
+                            "href": "scalability/performance-efficiency-patterns",
+                            "toc_title": "Performance efficiency patterns"
+                        },
+                        {
+                            "href": "scalability/performance-efficiency",
+                            "toc_title": "Checklist"
+                        },
+                        {
+                            "href": "scalability/tradeoffs",
+                            "toc_title": "Tradeoffs"
+                        }
+                    ],
+                    "toc_title": "Performance Efficiency"
+                },
+                {
+                    "children": [
+                        {
+                            "children": [
+                                {
+                                    "href": "azure-vmware/",
+                                    "toc_title": "Quick links"
+                                },
+                                {
+                                    "href": "azure-vmware/overview",
+                                    "toc_title": "Get started"
+                                },
+                                {
+                                    "href": "azure-vmware/design-principles",
+                                    "toc_title": "Design principles"
+                                },
+                                {
+                                    "children": [
+                                        {
+                                            "href": "azure-vmware/infrastructure",
+                                            "toc_title": "Infrastructure"
+                                        },
+                                        {
+                                            "href": "azure-vmware/application-platform",
+                                            "toc_title": "Applications"
+                                        },
+                                        {
+                                            "href": "azure-vmware/networking",
+                                            "toc_title": "Networking"
+                                        },
+                                        {
+                                            "href": "azure-vmware/monitoring",
+                                            "toc_title": "Monitoring"
+                                        },
+                                        {
+                                            "href": "azure-vmware/security",
+                                            "toc_title": "Security"
+                                        },
+                                        {
+                                            "href": "azure-vmware/operations",
+                                            "toc_title": "Operations"
+                                        }
+                                    ],
+                                    "toc_title": "Design areas"
+                                },
+                                {
+                                    "href": "azure-vmware/landing-zone-integration",
+                                    "toc_title": "Azure landing zone integration"
+                                },
+                                {
+                                    "href": "azure-vmware/assessment",
+                                    "toc_title": "Assessment"
+                                }
+                            ],
+                            "toc_title": "Azure VMware Solution"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "href": "mission-critical/",
+                                    "toc_title": "Quick links"
+                                },
+                                {
+                                    "href": "mission-critical/mission-critical-overview",
+                                    "toc_title": "Get started"
+                                },
+                                {
+                                    "href": "mission-critical/mission-critical-design-methodology",
+                                    "toc_title": "Design methodology"
+                                },
+                                {
+                                    "href": "mission-critical/mission-critical-design-principles",
+                                    "toc_title": "Design principles"
+                                },
+                                {
+                                    "href": "mission-critical/mission-critical-architecture-pattern",
+                                    "toc_title": "Architecture pattern"
+                                },
+                                {
+                                    "href": "mission-critical/mission-critical-cross-cutting-issues",
+                                    "toc_title": "Cross-cutting concerns"
+                                },
+                                {
+                                    "children": [
+                                        {
+                                            "href": "mission-critical/mission-critical-application-design",
+                                            "toc_title": "Application design"
+                                        },
+                                        {
+                                            "href": "mission-critical/mission-critical-application-platform",
+                                            "toc_title": "Application platform"
+                                        },
+                                        {
+                                            "href": "mission-critical/mission-critical-data-platform",
+                                            "toc_title": "Data platform"
+                                        },
+                                        {
+                                            "href": "mission-critical/mission-critical-networking-connectivity",
+                                            "toc_title": "Networking and connectivity"
+                                        },
+                                        {
+                                            "href": "mission-critical/mission-critical-health-modeling",
+                                            "toc_title": "Health modeling"
+                                        },
+                                        {
+                                            "href": "mission-critical/mission-critical-deployment-testing",
+                                            "toc_title": "Deployment and testing"
+                                        },
+                                        {
+                                            "href": "mission-critical/mission-critical-security",
+                                            "toc_title": "Security"
+                                        },
+                                        {
+                                            "href": "mission-critical/mission-critical-operational-procedures",
+                                            "toc_title": "Operational procedures"
+                                        }
+                                    ],
+                                    "toc_title": "Design areas"
+                                },
+                                {
+                                    "href": "mission-critical/mission-critical-assessment",
+                                    "toc_title": "Assessment tool"
+                                }
+                            ],
+                            "toc_title": "Mission-critical"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "href": "carrier-grade/",
+                                    "toc_title": "Quick links"
+                                },
+                                {
+                                    "href": "carrier-grade/carrier-grade-get-started",
+                                    "toc_title": "Get started"
+                                },
+                                {
+                                    "href": "carrier-grade/carrier-grade-design-principles",
+                                    "toc_title": "Design principles"
+                                },
+                                {
+                                    "children": [
+                                        {
+                                            "href": "carrier-grade/carrier-grade-design-area-fault-tolerance",
+                                            "toc_title": "Fault tolerance"
+                                        },
+                                        {
+                                            "href": "carrier-grade/carrier-grade-design-area-data-model",
+                                            "toc_title": "Data model"
+                                        },
+                                        {
+                                            "href": "carrier-grade/carrier-grade-design-area-health-modeling",
+                                            "toc_title": "Health modeling"
+                                        },
+                                        {
+                                            "href": "carrier-grade/carrier-grade-design-area-testing",
+                                            "toc_title": "Testing and validation"
+                                        }
+                                    ],
+                                    "toc_title": "Design areas"
+                                }
+                            ],
+                            "toc_title": "Carrier-grade"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "href": "hybrid/hybrid-overview",
+                                    "toc_title": "Overview"
+                                },
+                                {
+                                    "href": "hybrid/hybrid-cost",
+                                    "toc_title": "Cost Optimization"
+                                },
+                                {
+                                    "href": "hybrid/hybrid-opex",
+                                    "toc_title": "Operational Excellence"
+                                },
+                                {
+                                    "href": "hybrid/hybrid-performance-efficiency",
+                                    "toc_title": "Performance Efficiency"
+                                },
+                                {
+                                    "href": "hybrid/hybrid-reliability",
+                                    "toc_title": "Reliability"
+                                },
+                                {
+                                    "href": "hybrid/hybrid-security",
+                                    "toc_title": "Security"
+                                }
+                            ],
+                            "toc_title": "Hybrid"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "href": "iot/iot-overview",
+                                    "toc_title": "Overview"
+                                },
+                                {
+                                    "href": "iot/iot-reliability",
+                                    "toc_title": "Reliability"
+                                },
+                                {
+                                    "href": "iot/iot-security",
+                                    "toc_title": "Security"
+                                },
+                                {
+                                    "href": "iot/iot-cost-optimization",
+                                    "toc_title": "Cost Optimization"
+                                },
+                                {
+                                    "href": "iot/iot-operational-excellence",
+                                    "toc_title": "Operational Excellence"
+                                },
+                                {
+                                    "href": "iot/iot-performance",
+                                    "toc_title": "Performance Efficiency"
+                                }
+                            ],
+                            "toc_title": "IoT"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "href": "oracle-iaas/overview",
+                                    "toc_title": "Overview"
+                                },
+                                {
+                                    "href": "oracle-iaas/reliability",
+                                    "toc_title": "Reliability"
+                                },
+                                {
+                                    "href": "oracle-iaas/security",
+                                    "toc_title": "Security"
+                                },
+                                {
+                                    "href": "oracle-iaas/cost-optimization",
+                                    "toc_title": "Cost Optimization"
+                                },
+                                {
+                                    "href": "oracle-iaas/operational-excellence",
+                                    "toc_title": "Operational Excellence"
+                                },
+                                {
+                                    "href": "oracle-iaas/performance-efficiency",
+                                    "toc_title": "Performance Efficiency"
+                                }
+                            ],
+                            "toc_title": "Oracle"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "href": "sap/quick-links",
+                                    "toc_title": "Quick links"
+                                },
+                                {
+                                    "href": "sap/get-started",
+                                    "toc_title": "Get started"
+                                },
+                                {
+                                    "href": "sap/design-principles",
+                                    "toc_title": "Design principles"
+                                },
+                                {
+                                    "children": [
+                                        {
+                                            "href": "sap/design-areas/application-design",
+                                            "toc_title": "Application design"
+                                        },
+                                        {
+                                            "href": "sap/design-areas/application-platform",
+                                            "toc_title": "Application platform"
+                                        },
+                                        {
+                                            "href": "sap/design-areas/data-platform",
+                                            "toc_title": "Data platform"
+                                        },
+                                        {
+                                            "href": "sap/design-areas/networking-and-connectivity",
+                                            "toc_title": "Networking and connectivity"
+                                        },
+                                        {
+                                            "href": "sap/design-areas/security",
+                                            "toc_title": "Security"
+                                        },
+                                        {
+                                            "href": "sap/design-areas/operational-procedures",
+                                            "toc_title": "Operational procedures"
+                                        }
+                                    ],
+                                    "toc_title": "Design areas"
+                                }
+                            ],
+                            "toc_title": "SAP"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "href": "sustainability/",
+                                    "toc_title": "Quick links"
+                                },
+                                {
+                                    "href": "sustainability/sustainability-get-started",
+                                    "toc_title": "Get started"
+                                },
+                                {
+                                    "href": "sustainability/sustainability-design-methodology",
+                                    "toc_title": "Design methodology"
+                                },
+                                {
+                                    "href": "sustainability/sustainability-design-principles",
+                                    "toc_title": "Design principles"
+                                },
+                                {
+                                    "children": [
+                                        {
+                                            "href": "sustainability/sustainability-application-design",
+                                            "toc_title": "Application design"
+                                        },
+                                        {
+                                            "href": "sustainability/sustainability-application-platform",
+                                            "toc_title": "Application platform"
+                                        },
+                                        {
+                                            "href": "sustainability/sustainability-testing",
+                                            "toc_title": "Testing"
+                                        },
+                                        {
+                                            "href": "sustainability/sustainability-operational-procedures",
+                                            "toc_title": "Operational procedures"
+                                        },
+                                        {
+                                            "href": "sustainability/sustainability-networking",
+                                            "toc_title": "Networking and connectivity"
+                                        },
+                                        {
+                                            "href": "sustainability/sustainability-storage",
+                                            "toc_title": "Storage"
+                                        },
+                                        {
+                                            "href": "sustainability/sustainability-security",
+                                            "toc_title": "Security"
+                                        }
+                                    ],
+                                    "toc_title": "Design areas"
+                                }
+                            ],
+                            "toc_title": "Sustainability"
+                        }
+                    ],
+                    "toc_title": "Workloads"
+                },
+                {
+                    "children": [
+                        {
+                            "children": [
+                                {
+                                    "href": "services/compute/azure-service-fabric-well-architected-framework",
+                                    "toc_title": "Azure Service Fabric"
+                                },
+                                {
+                                    "children": [
+                                        {
+                                            "href": "services/compute/azure-app-service/reliability",
+                                            "toc_title": "Reliability"
+                                        },
+                                        {
+                                            "href": "services/compute/azure-app-service/cost-optimization",
+                                            "toc_title": "Cost optimization"
+                                        },
+                                        {
+                                            "href": "services/compute/azure-app-service/operational-excellence",
+                                            "toc_title": "Operational excellence"
+                                        }
+                                    ],
+                                    "toc_title": "Azure App Service"
+                                },
+                                {
+                                    "children": [
+                                        {
+                                            "href": "services/compute/azure-batch/reliability",
+                                            "toc_title": "Reliability"
+                                        },
+                                        {
+                                            "href": "services/compute/azure-batch/operational-excellence",
+                                            "toc_title": "Operational excellence"
+                                        },
+                                        {
+                                            "href": "services/compute/azure-batch/performance-efficiency",
+                                            "toc_title": "Performance efficiency"
+                                        }
+                                    ],
+                                    "toc_title": "Azure Batch"
+                                },
+                                {
+                                    "href": "services/compute/azure-kubernetes-service/azure-kubernetes-service",
+                                    "toc_title": "Azure Kubernetes Service"
+                                },
+                                {
+                                    "children": [
+                                        {
+                                            "href": "services/compute/functions/security",
+                                            "toc_title": "Security"
+                                        }
+                                    ],
+                                    "toc_title": "Functions"
+                                },
+                                {
+                                    "href": "services/compute/virtual-machines/virtual-machines-review",
+                                    "toc_title": "Virtual Machines"
+                                }
+                            ],
+                            "toc_title": "Compute"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "children": [
+                                        {
+                                            "href": "services/data/azure-cache-redis/reliability",
+                                            "toc_title": "Reliability"
+                                        },
+                                        {
+                                            "href": "services/data/azure-cache-redis/operational-excellence",
+                                            "toc_title": "Operational excellence"
+                                        }
+                                    ],
+                                    "toc_title": "Azure Cache for Redis"
+                                },
+                                {
+                                    "children": [
+                                        {
+                                            "href": "services/data/azure-databricks/security",
+                                            "toc_title": "Security"
+                                        }
+                                    ],
+                                    "toc_title": "Azure Databricks"
+                                },
+                                {
+                                    "children": [
+                                        {
+                                            "href": "services/data/azure-db-mysql/cost-optimization",
+                                            "toc_title": "Cost optimization"
+                                        }
+                                    ],
+                                    "toc_title": "Azure Database for MySQL"
+                                },
+                                {
+                                    "href": "services/data/azure-db-postgresql-well-architected-framework",
+                                    "toc_title": "Azure Database for PostgreSQL"
+                                },
+                                {
+                                    "href": "services/data/azure-sql-database-well-architected-framework",
+                                    "toc_title": "Azure SQL Database"
+                                },
+                                {
+                                    "children": [
+                                        {
+                                            "href": "services/data/azure-sql-managed-instance/reliability",
+                                            "toc_title": "Reliability"
+                                        },
+                                        {
+                                            "href": "services/data/azure-sql-managed-instance/operational-excellence",
+                                            "toc_title": "Operational excellence"
+                                        }
+                                    ],
+                                    "toc_title": "Azure SQL Managed Instance"
+                                },
+                                {
+                                    "children": [
+                                        {
+                                            "href": "services/data/cosmos-db/reliability",
+                                            "toc_title": "Reliability"
+                                        },
+                                        {
+                                            "href": "services/data/cosmos-db/operational-excellence",
+                                            "toc_title": "Operational excellence"
+                                        }
+                                    ],
+                                    "toc_title": "Azure Cosmos DB"
+                                }
+                            ],
+                            "toc_title": "Data"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "children": [
+                                        {
+                                            "href": "services/hybrid/azure-stack-hub/reliability",
+                                            "toc_title": "Reliability"
+                                        },
+                                        {
+                                            "href": "services/hybrid/azure-stack-hub/operational-excellence",
+                                            "toc_title": "Operational excellence"
+                                        }
+                                    ],
+                                    "toc_title": "Azure Stack Hub"
+                                }
+                            ],
+                            "toc_title": "Hybrid"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "children": [
+                                        {
+                                            "href": "services/storage/storage-accounts/reliability",
+                                            "toc_title": "Reliability"
+                                        },
+                                        {
+                                            "href": "services/storage/storage-accounts/security",
+                                            "toc_title": "Security"
+                                        },
+                                        {
+                                            "href": "services/storage/storage-accounts/cost-optimization",
+                                            "toc_title": "Cost optimization"
+                                        },
+                                        {
+                                            "href": "services/storage/storage-accounts/operational-excellence",
+                                            "toc_title": "Operational excellence"
+                                        }
+                                    ],
+                                    "toc_title": "Storage Accounts"
+                                },
+                                {
+                                    "children": [
+                                        {
+                                            "href": "services/storage/disks/cost-optimization",
+                                            "toc_title": "Cost optimization"
+                                        }
+                                    ],
+                                    "toc_title": "Disks"
+                                }
+                            ],
+                            "toc_title": "Storage"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "children": [
+                                        {
+                                            "href": "services/messaging/event-grid/reliability",
+                                            "toc_title": "Reliability"
+                                        },
+                                        {
+                                            "href": "services/messaging/event-grid/operational-excellence",
+                                            "toc_title": "Operational excellence"
+                                        }
+                                    ],
+                                    "toc_title": "Event Grid"
+                                },
+                                {
+                                    "children": [
+                                        {
+                                            "href": "services/messaging/event-hubs/reliability",
+                                            "toc_title": "Reliability"
+                                        },
+                                        {
+                                            "href": "services/messaging/event-hubs/operational-excellence",
+                                            "toc_title": "Operational excellence"
+                                        }
+                                    ],
+                                    "toc_title": "Event Hubs"
+                                },
+                                {
+                                    "children": [
+                                        {
+                                            "href": "services/messaging/service-bus/reliability",
+                                            "toc_title": "Reliability"
+                                        },
+                                        {
+                                            "href": "services/messaging/service-bus/operational-excellence",
+                                            "toc_title": "Operational excellence"
+                                        }
+                                    ],
+                                    "toc_title": "Service Bus"
+                                },
+                                {
+                                    "children": [
+                                        {
+                                            "href": "services/messaging/queue-storage/reliability",
+                                            "toc_title": "Reliability"
+                                        },
+                                        {
+                                            "href": "services/messaging/queue-storage/operational-excellence",
+                                            "toc_title": "Operational excellence"
+                                        }
+                                    ],
+                                    "toc_title": "Queue Storage"
+                                },
+                                {
+                                    "children": [
+                                        {
+                                            "href": "services/messaging/iot-hub/reliability",
+                                            "toc_title": "Reliability"
+                                        },
+                                        {
+                                            "href": "services/messaging/iot-hub/operational-excellence",
+                                            "toc_title": "Operational excellence"
+                                        }
+                                    ],
+                                    "toc_title": "IoT Hub"
+                                },
+                                {
+                                    "children": [
+                                        {
+                                            "href": "services/messaging/iot-hub-dps/reliability",
+                                            "toc_title": "Reliability"
+                                        },
+                                        {
+                                            "href": "services/messaging/iot-hub-dps/operational-excellence",
+                                            "toc_title": "Operational excellence"
+                                        }
+                                    ],
+                                    "toc_title": "IoT Hub Device Provisioning Service"
+                                }
+                            ],
+                            "toc_title": "Messaging"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "children": [
+                                        {
+                                            "href": "services/networking/application-delivery/reliability",
+                                            "toc_title": "Reliability"
+                                        },
+                                        {
+                                            "href": "services/networking/application-delivery/operational-excellence",
+                                            "toc_title": "Operational excellence"
+                                        }
+                                    ],
+                                    "toc_title": "Application Delivery (General)"
+                                },
+                                {
+                                    "href": "services/networking/azure-application-gateway",
+                                    "toc_title": "Application Gateway v2"
+                                },
+                                {
+                                    "href": "services/networking/azure-firewall",
+                                    "toc_title": "Azure Firewall"
+                                },
+                                {
+                                    "href": "services/networking/azure-expressroute",
+                                    "toc_title": "ExpressRoute"
+                                },
+                                {
+                                    "children": [
+                                        {
+                                            "href": "services/networking/api-management/reliability",
+                                            "toc_title": "Reliability"
+                                        },
+                                        {
+                                            "href": "services/networking/api-management/cost-optimization",
+                                            "toc_title": "Cost optimization"
+                                        },
+                                        {
+                                            "href": "services/networking/api-management/operational-excellence",
+                                            "toc_title": "Operational excellence"
+                                        }
+                                    ],
+                                    "toc_title": "API Management"
+                                },
+                                {
+                                    "children": [
+                                        {
+                                            "href": "services/networking/azure-front-door/reliability",
+                                            "toc_title": "Reliability"
+                                        },
+                                        {
+                                            "href": "services/networking/azure-front-door/security",
+                                            "toc_title": "Security"
+                                        },
+                                        {
+                                            "href": "services/networking/azure-front-door/operational-excellence",
+                                            "toc_title": "Operational excellence"
+                                        }
+                                    ],
+                                    "toc_title": "Azure Front Door"
+                                },
+                                {
+                                    "children": [
+                                        {
+                                            "href": "services/networking/network-virtual-appliances/reliability",
+                                            "toc_title": "Reliability"
+                                        },
+                                        {
+                                            "href": "services/networking/network-virtual-appliances/cost-optimization",
+                                            "toc_title": "Cost optimization"
+                                        },
+                                        {
+                                            "href": "services/networking/network-virtual-appliances/operational-excellence",
+                                            "toc_title": "Operational excellence"
+                                        }
+                                    ],
+                                    "toc_title": "Network Virtual Appliances (NVA)"
+                                },
+                                {
+                                    "children": [
+                                        {
+                                            "href": "services/networking/network-connectivity/reliability",
+                                            "toc_title": "Reliability"
+                                        },
+                                        {
+                                            "href": "services/networking/network-connectivity/cost-optimization",
+                                            "toc_title": "Cost optimization"
+                                        },
+                                        {
+                                            "href": "services/networking/network-connectivity/operational-excellence",
+                                            "toc_title": "Operational excellence"
+                                        }
+                                    ],
+                                    "toc_title": "Network Connectivity"
+                                },
+                                {
+                                    "children": [
+                                        {
+                                            "href": "services/networking/azure-virtual-network/reliability",
+                                            "toc_title": "Reliability"
+                                        },
+                                        {
+                                            "href": "services/networking/azure-virtual-network/operational-excellence",
+                                            "toc_title": "Operational excellence"
+                                        }
+                                    ],
+                                    "toc_title": "Azure Virtual Network"
+                                },
+                                {
+                                    "children": [
+                                        {
+                                            "href": "services/networking/azure-load-balancer/reliability",
+                                            "toc_title": "Reliability"
+                                        },
+                                        {
+                                            "href": "services/networking/azure-load-balancer/operational-excellence",
+                                            "toc_title": "Operational excellence"
+                                        }
+                                    ],
+                                    "toc_title": "Azure Load Balancer"
+                                },
+                                {
+                                    "children": [
+                                        {
+                                            "href": "services/networking/traffic-manager/reliability",
+                                            "toc_title": "Reliability"
+                                        },
+                                        {
+                                            "href": "services/networking/traffic-manager/operational-excellence",
+                                            "toc_title": "Operational excellence"
+                                        }
+                                    ],
+                                    "toc_title": "Traffic Manager"
+                                },
+                                {
+                                    "children": [
+                                        {
+                                            "href": "services/networking/ip-addresses/cost-optimization",
+                                            "toc_title": "Cost optimization"
+                                        }
+                                    ],
+                                    "toc_title": "IP addresses"
+                                }
+                            ],
+                            "toc_title": "Networking"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "children": [
+                                        {
+                                            "href": "services/monitoring/log-analytics/cost-optimization",
+                                            "toc_title": "Cost optimization"
+                                        }
+                                    ],
+                                    "toc_title": "Log Analytics"
+                                },
+                                {
+                                    "children": [
+                                        {
+                                            "href": "services/monitoring/application-insights/security",
+                                            "toc_title": "Security"
+                                        },
+                                        {
+                                            "href": "services/monitoring/application-insights/cost-optimization",
+                                            "toc_title": "Cost optimization"
+                                        },
+                                        {
+                                            "href": "services/monitoring/application-insights/operational-excellence",
+                                            "toc_title": "Operational excellence"
+                                        }
+                                    ],
+                                    "toc_title": "Application Insights"
+                                }
+                            ],
+                            "toc_title": "Monitoring"
+                        }
+                    ],
+                    "toc_title": "Services"
+                },
+                {
+                    "href": "implementing-recommendations",
+                    "toc_title": "Implementing Recommendations"
+                }
+            ],
+            "href": "./",
+            "toc_title": "Microsoft Azure Well-Architected Framework"
+        }
+    ],
+    "metadata": {
+        "brand": "azure",
+        "breadcrumb_path": "/azure/well-architected/breadcrumb/toc.json",
+        "count_of_node_with_href": 289,
+        "extendBreadcrumb": true,
+        "feedback_github_repo": "MicrosoftDocs/well-architected",
+        "feedback_system": "GitHub",
+        "ms.service": "waf",
+        "open_to_public_contributors": true,
+        "pdf_absolute_path": "/azure/well-architected/opbuildpdf/toc.pdf",
+        "searchScope": [
+            "Azure",
+            "Microsoft Azure Well-Architected Framework"
+        ],
+        "titleSuffix": "Microsoft Azure Well-Architected Framework",
+        "uhfHeaderId": "azure"
+    }
+}
